@@ -1,0 +1,5 @@
+Name,Spirte,Damage,Rate Of Fire (per second),Radius (px),Attack_Mode,laser_color
+Single Tower1,assets/towers/basic_tower_1.png,5,3,125,2,1
+Double Tower1,assets/towers/basic_tower_2.png,10,2,200,1,2
+Mega Tower1,assets/towers/basic_tower_3.png,20,2,275,9,3
+Money Tower1,assets/towers/money_tower.png,3,2,0,0,1

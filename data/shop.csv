@@ -1,0 +1,5 @@
+Towers Names,Sprites,Sprites (disabled),Available,Cost,Radius
+Single Tower1,assets/towers/basic_tower_1.png,assets/towers/basic_tower_1_disabled.png,TRUE,50,125
+Double Tower1,assets/towers/basic_tower_2.png,assets/towers/basic_tower_2_disabled.png,TRUE,120,200
+Mega Tower1,assets/towers/basic_tower_3.png,assets/towers/basic_tower_3_disabled.png,TRUE,225,275
+Money Tower1,assets/towers/money_tower.png,assets/towers/money_tower_disabled.png,TRUE,10,0
